@@ -1,0 +1,51 @@
+Conditional Formatting Macro (Excel VBA)
+
+This VBA macro automatically applies cell colors based on numeric values.  
+Perfect for highlighting profit/loss data or visualizing KPI trends.
+
+Features
+
+*Applies color to cells depending on value:
+
+  - Green → positive numbers
+  - Red → negative numbers
+  - Yellow → zero
+
+*Works on any numeric column
+*Clears previous color formatting before applying new rules
+
+ How to Use
+
+*Enter your data in column C (C2:C100 by default)
+*Run the macro `Conditional_Formatting`
+*See the cells automatically colorized
+
+
+Example
+
+| Product | Month | Profit |
+|----------|--------|---------|
+| A | Jan | 120 |
+| B | Feb | -90 |
+| C | Mar | 0 |
+
+Result:  
+🟩 120 → Green  
+🟥 -90 → Red  
+🟨 0 → Yellow
+
+---
+
+Files
+
+*'Conditional_Formatting.bas` — VBA code  
+*`Conditional_Formatting_Demo.xlsm` — demo workbook  
+*`Screenshot.png` — example result
+
+
+License
+
+**MIT License**  
+You are free to use, modify, and distribute this code with attribution.  
+
+© 2025 **Data Solutions Lab. by Osman Uluhan** – All rights reserved.
