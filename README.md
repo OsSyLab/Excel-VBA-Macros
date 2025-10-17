@@ -66,7 +66,8 @@ _Add example images here later (Before/After, UserForm, PDF export, etc.)_
 ## 💬 Contact
 Created by **OsSyLab**  
 📧 Email: [osmanuluhan@hotmail.com]  
-🌐 Fiverr / Upwork: (https://www.fiverr.com/s/WE1w5gE)
+🌐 Fiverr  : (https://www.fiverr.com/s/WE1w5gE) 
+🌐 Upwork  : (https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)
 
 ---
 
