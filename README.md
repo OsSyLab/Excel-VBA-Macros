@@ -1,8 +1,11 @@
 <p align="center">
   <img src="https://github.com/OsSyLab/OsSyLab/blob/9436403c2d226d00b1e5777eb945c0ff09d88546/GITHUB%20Bannerlar.png" alt="Excel & Python Automation Lab Banner" width="100%">
 </p>
-📎 **Hire Me on Fiverr**
-For custom **Excel & Python automation projects**, dashboards, and data tools.  
+
+<p align="center">
+📎 **Hire Me on Fiverr** 
+  For custom **Excel & Python automation projects**, dashboards, and data tools.  
+  <p align="center">
 👉 [fiverr.com/osman_uluhan](https://www.fiverr.com/osman_uluhan)
 
 
